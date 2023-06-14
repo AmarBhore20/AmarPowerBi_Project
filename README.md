@@ -2,7 +2,7 @@
 Project Of Power-Bi
 This is a super store report for beginner. 
 Here we used - 
-1. Clicer
+1. Slicer
 2. Horizontal bar chart
 3. Line chart
 4. Area chart
